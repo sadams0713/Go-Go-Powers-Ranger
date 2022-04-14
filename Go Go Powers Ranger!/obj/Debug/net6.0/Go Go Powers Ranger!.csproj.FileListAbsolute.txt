@@ -1,0 +1,17 @@
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\bin\Debug\net6.0\Go Go Powers Ranger!.exe
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\bin\Debug\net6.0\Go Go Powers Ranger!.deps.json
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\bin\Debug\net6.0\Go Go Powers Ranger!.runtimeconfig.json
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\bin\Debug\net6.0\Go Go Powers Ranger!.dll
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\bin\Debug\net6.0\Go Go Powers Ranger!.pdb
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\obj\Debug\net6.0\Go Go Powers Ranger!.csproj.AssemblyReference.cache
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\obj\Debug\net6.0\Go Go Powers Ranger!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\obj\Debug\net6.0\Go Go Powers Ranger!.AssemblyInfoInputs.cache
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\obj\Debug\net6.0\Go Go Powers Ranger!.AssemblyInfo.cs
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\obj\Debug\net6.0\Go Go Powers Ranger!.csproj.CoreCompileInputs.cache
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\obj\Debug\net6.0\Go Go Powers Ranger!.dll
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\obj\Debug\net6.0\refint\Go Go Powers Ranger!.dll
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\obj\Debug\net6.0\Go Go Powers Ranger!.pdb
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\obj\Debug\net6.0\Go Go Powers Ranger!.genruntimeconfig.cache
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\obj\Debug\net6.0\ref\Go Go Powers Ranger!.dll
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\sadams\source\repos\Go Go Powers Ranger!\Go Go Powers Ranger!\obj\Debug\net6.0\Go Go Powers Ranger!.csproj.CopyComplete
